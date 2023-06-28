@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--pastelOrange);
+  height: 50px;
+}
+
+.heading {
+  text-decoration: underline;
+  text-underline-offset: 8px;
+}
